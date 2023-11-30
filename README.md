@@ -10,10 +10,10 @@
 ex) 아침 9:00 ~ 10:00 사이에 항상 아침을 먹는 강아지가 먹지 않았을 때!
 
 <H2> 사용 기술 </H2>
-React native
-Flask
-Pytorch
-Azure
+* React native
+* Flask
+* Pytorch
+* Azure
 
 <H2> Docker Hub </H2>
 
